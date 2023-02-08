@@ -1,1 +1,1 @@
-# formationCOBOL
+# formation basic COBOL
